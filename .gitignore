@@ -1,1 +1,4 @@
 *.xml
+*.txt
+build.xml
+Abc.java
